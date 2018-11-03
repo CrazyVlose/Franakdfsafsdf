@@ -1,0 +1,6 @@
+token=NTAwMzAwMjMzMDkyMzY2MzU2.DqI6Cw.SoN2_6nVOha-VJDG-IfQzKHULIs
+owner=485380710656507914
+prefix=N
+game=Type Nhelp
+stayinchannel=true
+songinstatus=true
